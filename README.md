@@ -29,7 +29,7 @@ Overall, TeluguCineBuzz-Static-Webpage looks like a well-designed and informativ
 
 ## Contact Me
 
-- LinkedIn: [Shaik Shafi](https://www.linkedin.com/in/shaik-shafi-263649238/)
+- LinkedIn: [Shaik Shafi](https://www.linkedin.com/in/shaik-shafi-eluru/)
 - Email: [shaikshafieluru@gmail.com](mailto:shaikshafieluru@gmail.com)
 
 Feel free to connect with me and let's work on something amazing together!
