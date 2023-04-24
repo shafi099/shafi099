@@ -2,7 +2,7 @@
 
 ## Summary
 
-I'm a software developer with a passion for full stack development. I'm experienced in HTML, CSS, C, C++, and Python, and I'm always learning new technologies and techniques to improve my skills. 
+I'm a software developer with a passion for full stack development. I'm experienced in JavaScript, HTML, CSS, C, C++, SQL and Python, and I'm always learning new technologies and techniques to improve my skills. 
 
 ## Projects
 
