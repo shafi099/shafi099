@@ -12,7 +12,7 @@ I'm a software developer with a passion for full stack development. I'm experien
 
 ## Skills
 
--JavaScript
+- JavaScript
 - Python
 - HTML
 - CSS
