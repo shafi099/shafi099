@@ -12,11 +12,12 @@ I'm a software developer with a passion for full stack development. I'm experien
 
 ## Skills
 
+-JavaScript
+- Python
 - HTML
 - CSS
 - C
 - C++
-- Python
 - SQL
 
 ## Interests
