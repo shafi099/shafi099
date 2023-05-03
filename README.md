@@ -12,7 +12,7 @@ I'm a software developer with a passion for full stack development. I'm experien
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,React,mongodb,py,c,cpp,mysql,ps)](https://skillicons.dev)
 - JavaScript
 - Python
 - HTML
