@@ -6,7 +6,7 @@ I'm a software developer with a passion for full stack development. I'm experien
 
 ## Projects
 
-- [Money Monitor - Personal Expense Tracker](https://tubular-starship-f4c8df.netlify.app/) : Money Monitor is a comprehensive web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides users with a powerful and user-friendly platform to track and monitor expemses and set budgets. Deployment is done on Netlify (Frontend), Render (Backend)
+- [Money Monitor - Personal Expense Tracker](https://moneytracker-mern.netlify.app/) : Money Monitor is a comprehensive web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides users with a powerful and user-friendly platform to track and monitor expemses and set budgets. Deployment is done on Netlify (Frontend), Render (Backend)
 
 - [CinePass - Online Movie Ticket Booking Portal](https://shafi099.github.io/CinePass/) : CinePass, an online movie ticket booking portal that I designed and developed from scratch! Using HTML, CSS, and JavaScript, I created a seamless and immersive experience for users to easily select their movie, date, time, and seat(s) of choice. The project challenged me to hone my skills in front-end development and provided me with valuable experience in user interface design. I'm proud of what I've accomplished and can't wait to see where my skills take me next! 
 
