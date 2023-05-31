@@ -1,5 +1,6 @@
 # Shafi Shaik
 
+![](https://komarev.com/ghpvc/?username=shafi099)
 ## About:ocean:
 
 I'm a software developer with a passion for full stack development. I'm experienced in JavaScript, React, MongoDB, HTML, CSS, C, C++, SQL and Python, and I'm always learning new technologies and techniques to improve my skills. 
