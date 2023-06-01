@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=shafi099)
 ## About:ocean:
 
-- I'm a software developer with a passion for full stack development. I'm experienced in JavaScript, React, MongoDB, HTML, CSS, C, C++, SQL and Python, and I'm always learning new technologies and techniques to improve my skills. 
+- Aspiring software developer with a passion for full stack development. Have Strong knowledge on JavaScript, React, MongoDB, HTML, CSS, C, C++, SQL and Python, and I'm always learning new technologies and techniques to improve my skills. 
 
 ## Projects:wrench:
 
@@ -27,7 +27,7 @@
 - Web development
 - Open source contributions
 
-## Contact :pushpin:
+## Connect with me :pushpin:
 
 - LinkedIn:wave:: [Shaik Shafi](https://www.linkedin.com/in/shaik-shafi-eluru/)
 - Email:envelope:: [shaikshafieluru@gmail.com](mailto:shaikshafieluru@gmail.com)
