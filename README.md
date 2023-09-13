@@ -1,6 +1,5 @@
 # Shafi Shaik:ocean:
-
-- Web Developer 
+-  Developer 
 
 ![](https://komarev.com/ghpvc/?username=shafi099)
 
