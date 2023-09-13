@@ -1,6 +1,6 @@
 # Shafi Shaik:ocean:
 
-- Aspiring software developer with a passion for full stack development. Have Strong knowledge on JavaScript, React, MongoDB, HTML, CSS, C, C++, SQL and Python, and I'm always learning new technologies and techniques to improve my skills. 
+- Web Developer 
 
 ![](https://komarev.com/ghpvc/?username=shafi099)
 
