@@ -1,5 +1,4 @@
-# Shafi Shaik:ocean:
--  Developer 
+# Shafi Shaik (The Developer)
 
 ![](https://komarev.com/ghpvc/?username=shafi099)
 
