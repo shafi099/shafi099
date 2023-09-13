@@ -18,7 +18,7 @@
 
 ### Skills:bulb:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,py,c,cpp,mysql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,js,html,css,mongodb,py,cpp,mysql,ps)](https://skillicons.dev)
 
 ### Interests:chart_with_upwards_trend:
 
