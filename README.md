@@ -30,6 +30,6 @@
 
 - LinkedIn:wave:: [Shaik Shafi](https://www.linkedin.com/in/shaik-shafi-eluru/)
 - Email:envelope:: [shaikshafieluru@gmail.com](mailto:shaikshafieluru@gmail.com)
-- PortFolio:link:: [Shafi_Portfolio](https://shafi-portfolio.netlify.app/)
+- PortFolio:link:: [Shafi_Portfolio](https://shafi-shaik.netlify.app/)
 
 Feel free to connect with me and let's work on something amazing together! :raising_hand:
