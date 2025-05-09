@@ -1,4 +1,4 @@
-## Shafi Shaik (The Developer)
+## Shafi
 
 ![](https://komarev.com/ghpvc/?username=shafi099)
 
