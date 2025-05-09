@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shafi099)
 
-### Projects:wrench:
+### Projects :wrench:
 
  - [File Flyer - Manage files without cloud](https://fileflyer.netlify.app/) : Simplifies file management, transformation, and sharing like never before. With us, you can effortlessly convert your uploaded files into a convenient zip format and then transform them into easily shareable, all with the click of a button. [Source code:link:](https://github.com/shafi099/file-flyer)
 
@@ -16,11 +16,11 @@
 
 - [Telugu - Cine Buzz Static Webpage](https://shafi099.github.io/TeluguCineBuzz-Static-Webpage.github.io/) :  My First Web Development Project, this website you linked to, TeluguCineBuzz-Static-Webpage, is a static webpage project hosted on GitHub. From what I can see, the website is dedicated to Telugu cinema news and updates.
 
-### Skills:bulb:
+### Skills :bulb:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,js,html,css,mongodb,py,cpp,mysql,ps)](https://skillicons.dev)
 
-### Interests:chart_with_upwards_trend:
+### Interests :chart_with_upwards_trend:
 
 - Full stack development
 - Web development
